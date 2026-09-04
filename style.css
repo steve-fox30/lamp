@@ -43,9 +43,9 @@ body {
 
 /* Logo rubah */
 .fox-logo {
-    width: 110px;
-    height: 110px;
-    object-fit: contain;
+    <img src="fox-logo.png"
+     alt="Logo Rubah"
+     class="fox-logo">
 
     margin-bottom: 15px;
 
